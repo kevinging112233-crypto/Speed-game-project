@@ -2,7 +2,7 @@
 ## Demo
 
 ![Game](image.jpg)
-![Game Running](media/photo2.jpg)
+![Game Running](IMG_2553.mov)
 
 # Overview
 
