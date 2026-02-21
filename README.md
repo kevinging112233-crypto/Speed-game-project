@@ -1,8 +1,8 @@
 # Arduino Two-Player Reaction Speed Game
 ## Demo
 
-![Setup](media/setup.jpg)
-![In Action](media/action.jpg)
+![Setup](media/image.jpg)
+![Game Running](media/photo2.jpg)
 
 # Overview
 
