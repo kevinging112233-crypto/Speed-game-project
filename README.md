@@ -3,7 +3,7 @@
 Game running: https://youtube.com/shorts/ruQGkITBvoQ?feature=share
 
 ![Game](image.jpg)
-# Overview
+## Overview
 
 This project is a two-player reaction speed game built using Arduino.
 
@@ -11,7 +11,7 @@ It simulates a racing start system. Players wait through a timed light sequence.
 
 The system uses random delay timing to prevent prediction and improve fairness.
 
-# Features
+## Features
 
 Two-player competitive gameplay
 
@@ -25,7 +25,7 @@ Clean digital input handling using INPUT_PULLUP
 
 Simple and expandable design
 
-# Hardware Components
+## Hardware Components
 
 Arduino Uno
 
@@ -39,7 +39,7 @@ Resistors
 
 Breadboard and jumper wires
 
-# System Behavior
+## System Behavior
 
 Green LED turns on with sound
 
@@ -57,7 +57,7 @@ Buzzer announces the result
 
 System resets for next round
 
-# Technical Details
+## Technical Details
 
 Uses randomSeed(analogRead(A0)) to generate unpredictable timing
 
@@ -67,7 +67,7 @@ Uses blocking delays for timing control
 
 Uses a while loop to detect first input event
 
-# Skills Demonstrated
+## Skills Demonstrated
 
 Embedded systems programming
 
@@ -81,7 +81,7 @@ Hardware debugging and wiring
 
 Basic game logic design
 
-# Future Improvements
+## Future Improvements
 
 Measure and display reaction time in milliseconds
 
