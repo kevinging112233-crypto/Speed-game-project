@@ -1,4 +1,9 @@
 # Arduino Two-Player Reaction Speed Game
+## Demo
+
+![Setup](media/setup.jpg)
+![In Action](media/action.jpg)
+
 # Overview
 
 This project is a two-player reaction speed game built using Arduino.
